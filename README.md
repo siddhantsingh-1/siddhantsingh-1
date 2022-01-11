@@ -54,4 +54,4 @@ I'm Siddhant Singh!, a Software Engineer and Quantitative Analyst from India ğŸ‡
 
 ### ğŸ“ˆ My GitHub Stats
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantsingh-1&hide=issues&show_icons=true&theme=highcontrast)](https://github.com/siddantsingh-1/github-readme-stats)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantsingh-1&show_icons=true&theme=highcontrast)](https://github.com/siddantsingh-1/github-readme-stats)
