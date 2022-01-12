@@ -1,6 +1,6 @@
 ## Hello there <img src="https://media.giphy.com/media/3o7aD7Oa5QKbXid2ww/giphy.gif" width="40px" />
 
-I'm Siddhant Singh! A Software Engineer and Quantitative Analyst from India 🇮🇳.
+I'm Siddhant Singh! A Software Engineer and Quantitative Analyst from India
 
 ### Connect with me:
 
