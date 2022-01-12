@@ -27,7 +27,6 @@ I'm Siddhant Singh! A Software Engineer and Quantitative Analyst from India
 - 🌱 I’m currently learning React Framework and Machine Learning (Python)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love listening to insightful podcasts 🗣 and rock music 🎸
-- 📫 How to reach me: <a href="https://instagram.com/siddhant.2002">@siddhant.2002</a>
 - 📨 **Email**: sidvz21@gmail.com
 
 **Languages and Tools:**
