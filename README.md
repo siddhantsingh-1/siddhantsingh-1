@@ -60,4 +60,4 @@ I'm Siddhant Singh!, a Software Engineer and Quantitative Analyst from India ðŸ‡
 
 ### ðŸŒ¸ My Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsingh-1&exclude_repo=reddit-bot-isb)](https://github.com/siddhantsingh-1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsingh-1)](https://github.com/siddhantsingh-1/github-readme-stats)
