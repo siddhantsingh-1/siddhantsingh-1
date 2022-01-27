@@ -1,25 +1,17 @@
 ## Hello there <img src="https://media.giphy.com/media/3o7aD7Oa5QKbXid2ww/giphy.gif" width="40px" />
 
-I'm Siddhant Singh! A Software Engineer and Quantitative Analyst from India
+I'm Siddhant Singh! A Software Engineer and an Aspiring Quantitative Analyst from India
 
 ### Connect with me:
 
 <a href="https://twitter.com/siddhant_100">
-  <img align="left" alt="Siddhant Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Siddhant Singh | Twitter" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/siddhantsingh100/">
-  <img align="left" alt="Siddhant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/Current-Dependent-62/">
-  <img align="left" alt="Siddhant's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-<a href="https://instagram.com/siddhant.2002">
-  <img align="left" alt="Siddhant Singh | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="Siddhant's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=siddhantsingh-1.siddhantsingh-1)
-
-<br />
+<br /> <br />
 
 **Some trivia about me:**
 
