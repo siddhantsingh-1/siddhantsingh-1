@@ -23,7 +23,7 @@ I'm Siddhant Singh! A Software Engineer and Quantitative Analyst from India
 
 **Some trivia about me:**
 
-- 👨‍💻 A 2nd year Engineering student in Mathematics and Computing
+- 👨‍💻 A 2nd year CSE student at Netaji Subhas University of Technology
 - 🌱 I’m currently learning React Framework and Machine Learning (Python)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love listening to insightful podcasts 🗣 and rock music 🎸
