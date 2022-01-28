@@ -46,10 +46,8 @@ I'm Siddhant Singh! A Software Engineer and an Aspiring Quantitative Analyst fro
 
 ### 📈 My GitHub Stats
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantsingh-1&show_icons=true&theme=highcontrast)](https://github.com/siddantsingh-1/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=siddhantsingh-1&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsingh-1&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 
 <br />
-
-### 🌸 My Language Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsingh-1)](https://github.com/siddhantsingh-1/github-readme-stats)
+  
+[![Siddhant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantsingh-1&theme=radical)](https://git.io/siddhantsingh-1)
