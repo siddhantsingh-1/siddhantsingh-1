@@ -1,4 +1,4 @@
-I'm Siddhant Singh! A Software Engineer and an Aspiring Quantitative Analyst from India
+I'm Siddhant Singh! An Aspiring Software Engineer from India
 
 ### Connect with me:
 
