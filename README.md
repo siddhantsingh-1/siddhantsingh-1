@@ -13,7 +13,7 @@ I'm Siddhant Singh! An Aspiring Software Engineer from India
 
 **Some trivia about me:**
 
-- 👨‍💻 A 3rd year CSE student at Netaji Subhas University of Technology
+- 👨‍💻 A 4th year CSE student at Netaji Subhas University of Technology
 - 🌱 I’m currently learning React Framework and Machine Learning (Python)
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love listening to insightful podcasts 🗣 and rock music 🎸
