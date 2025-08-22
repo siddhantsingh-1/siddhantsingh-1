@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/siddhantsingh-4)  
+- [LinkedIn](https://www.linkedin.com/in/siddhant-singh4)  
 - [Email](mailto:sidvz21@gmail.com)  
 - [Twitter/X](https://twitter.com/siddhant_2002)  
 
@@ -25,15 +25,7 @@
 **Programming:** Python (NumPy, Pandas, SciPy, scikit-learn), C++, SQL  
 **Finance Libraries:** QuantLib, yfinance, Bloomberg API (basic)  
 **Data & Visualization:** Jupyter, Matplotlib, Plotly  
-**Systems:** Git, Linux, Bash, Docker  
-
----
-
-## 📊 Featured Projects
-🔹 [Backtesting Framework](https://github.com/YOUR-REPO) – Build + evaluate systematic strategies  
-🔹 [Derivatives Pricing Models](https://github.com/YOUR-REPO) – Monte Carlo, Binomial Trees, Greeks  
-🔹 [Market Data Analysis](https://github.com/YOUR-REPO) – Clean + visualize equities/crypto datasets  
-🔹 [Quant Coursework](https://github.com/YOUR-REPO) – Probability, stochastic processes, applied ML in finance  
+**Systems:** Git, Linux, Bash, Docker
 
 ---
 
