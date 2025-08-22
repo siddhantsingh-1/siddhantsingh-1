@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+- [LinkedIn](https://www.linkedin.com/in/siddhantsingh-4)  
 - [Email](mailto:sidvz21@gmail.com)  
 - [Twitter/X](https://twitter.com/siddhant_2002)  
 
